@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Original Source
+https://stackoverflow.com/questions/70198634/codility-like-button-angular/70198888#70198888
+https://stackblitz.com/edit/angular-85ys13?file=src%2Fapp%2Fapp.component.css
