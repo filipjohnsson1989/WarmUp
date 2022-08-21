@@ -14,7 +14,7 @@ internal class Program
         // Assumptions:
         // N is integer within the range [1..2,147,483,647].
         // Otherwise, N is supposed to be positive.
-        //if (N < 0) return Default_Max_Binary_Gap;
+        //if (N < 0) return Default_Longest_Binary_Gap;
 
 
         // Not efficent
