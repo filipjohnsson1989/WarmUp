@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestBinaryGapCsharp", "L
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "LongestBinaryGapTS", "LongestBinaryGapTS\LongestBinaryGapTS.njsproj", "{3790B951-FAB5-4D10-9CAA-90DACF12B428}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CodilityLikeButtonAngular", "CodilityLikeButtonAngular\CodilityLikeButtonAngular.esproj", "{7B619096-BDD9-43FB-8476-5A254EA8FFF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{3790B951-FAB5-4D10-9CAA-90DACF12B428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3790B951-FAB5-4D10-9CAA-90DACF12B428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3790B951-FAB5-4D10-9CAA-90DACF12B428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B619096-BDD9-43FB-8476-5A254EA8FFF4}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
